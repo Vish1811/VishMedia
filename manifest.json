@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "VishMedia",
+  "description": "Quick launch Your Media",
+  "version": "1.0.0",
+  "icons": { "128": "images/vish.png" },
+  "browser_action": {
+    "default_icon": "images/vish.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
