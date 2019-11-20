@@ -10,7 +10,12 @@ Technologies Used:
 2.CSS
 3.JS
 
-![VishMedia Logo](/images/vishnu.png)
+Logo of the Extension:
 
+![VishMedia Logo](/images/vish.png)
 
-
+Screenshots of the VishMedia Extension:
+Current Version
+![VishMedia Screeenshots](/images/Screenshot(2).png)
+Older Version
+![VishMedia Screeenshots](/images/Screenshot(1).png)
